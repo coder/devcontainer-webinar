@@ -14,6 +14,8 @@ Join us as we break down the good, the bad, the future of Dev Containers. In thi
 - [VS Code Dev Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [Coder's Envbuilder](https://github.com/coder/envbuilder)
 - [containers.dev Official Site](https://containers.dev)
+- [Coder Docker Dev Container Template](https://github.com/coder/coder/tree/main/examples/templates/devcontainer-docker)
+- [Coder Kubernetes Dev Container Template](https://github.com/coder/coder/tree/main/examples/templates/devcontainer-kubernetes)
 
 ## Images
 
